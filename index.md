@@ -1,4 +1,4 @@
-## Welcome to Amir's page
+## Welcome to GitHub pages
 
 You can use the [editor on GitHub](https://github.com/amir-hamze/Holly-Molly/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
